@@ -20,7 +20,9 @@ Skills Demonstrated :
 
 Main findings :
 
--Solskjaer's united team demonstrated the highest level of clincality, scoring more goals per unit increase in expected goals than other managers.
--Finishing efficiency per match was most consistently high during the 2020/21 season
+- Solskjaer's united team demonstrated the highest level of clincality, scoring more goals per unit increase in expected goals than other managers.
+- Finishing efficiency per match was most consistently high during the 2020/21 season
+- Amorim had the largest variance in how expected goals influenced goals scored within this period
+
 
 
